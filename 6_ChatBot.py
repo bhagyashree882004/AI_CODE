@@ -41,3 +41,23 @@ while True:
         break
     response = chatbot_response(user_message)
     print("Chatbot:", response)
+
+
+    #Hello!
+    #How are you doing?
+    #Can you track my order?
+    #What's the status of my order?
+    #What's the shipping time?
+    #What's your return policy?
+    #Do you have milk in stock?
+    #What's the cost of Eggs?
+    #Tell me the price of Rice?
+    #List of available vegetables?
+    #What Fruits are in Stack?
+    #Show me some Snack Items
+    #Any Fruit Juice available?
+    #How Can I place an Order?
+    #What Payments do you accepts?
+    #What's your Shopping Time?
+    #Give me the Address.
+    #See you later.
